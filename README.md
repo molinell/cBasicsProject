@@ -1,1 +1,1 @@
-# cBasicProject
+# Medals database - C basics course project
